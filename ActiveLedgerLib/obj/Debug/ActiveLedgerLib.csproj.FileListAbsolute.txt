@@ -1,0 +1,10 @@
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\bin\Debug\ActiveLedgerLib.dll
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\bin\Debug\ActiveLedgerLib.pdb
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\obj\Debug\ActiveLedgerLib.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\obj\Debug\ActiveLedgerLib.csproj.CopyComplete
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\obj\Debug\ActiveLedgerLib.dll
+c:\users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\obj\Debug\ActiveLedgerLib.pdb
+C:\Users\user\source\repos\ActiveLedgerLib\ActiveLedgerLib\obj\Debug\ActiveLedgerLib.csprojAssemblyReference.cache
